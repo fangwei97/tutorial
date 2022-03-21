@@ -1,11 +1,8 @@
 
 def func_a():
-  print("hello world again")
+  print("this is a first function")
 
 def func_b():
-  print("this is a second fucntion")
-
-def func_c():
-  print("this is a third fucntion")
+  print("this is a second function")
 
 func_a()
